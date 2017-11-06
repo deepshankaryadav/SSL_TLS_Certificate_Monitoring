@@ -1,11 +1,13 @@
 #!/usr/bin/env python
 # Initial Code Written by Br0wn_Sugar
+
 __author__ = "Deep Shankar Yadav"
 __credits__ = ["Nishtha Wadhwan for Idea"]
 __license__ = "BUBBU - Buy Us Beer Before Use"
 __version__ = "0.2"
 __email__ = "mail@deepshankaryadav.net"
 __status__ = "Development"
+
 
 import ssl
 import OpenSSL

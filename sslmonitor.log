@@ -1,7 +1,0 @@
-2017-09-14 19:19:56,950 __main__: INFO: CN Matched for Host facebook.com
-2017-09-14 19:19:56,950 __main__: INFO: SAN Matched for Host facebook.com
-2017-09-14 19:19:57,186 __main__: INFO: CN Matched for Host google.com
-2017-09-14 19:19:57,186 __main__: INFO: SAN Matched for Host google.com
-2017-09-14 19:19:57,983 __main__: INFO: CN Matched for Host linkedin.com
-2017-09-14 19:19:57,983 __main__: INFO: SAN Matched for Host linkedin.com
-2017-09-14 19:19:59,194 __main__: ERROR: CN not Matched for host cnet.com
